@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Liran Tul
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;TypeScript+%7C+Python+%7C+Node.js;Always+building+something" alt="Typing SVG" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lirantul123&bg_color=0d1117&color=A371F7&line=A371F7&point=ffffff&area=true&area_color=A371F7&hide_border=true" width="100%"/>
 
 <br/>
 
