@@ -19,15 +19,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,js,java,nodejs,git,linux&theme=dark" />
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lirantul123&theme=tokyonight&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,docker,kubernetes,helm,git,linux&theme=dark&perline=8" width="420"/>
 </div>
 
 ---
@@ -35,32 +27,6 @@
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lirantul123&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lirantul123&bg_color=0d1117&color=FFD700&line=FF4D6D&point=ffffff&hide_border=true&title_color=FFD700" width="100%"/>
 </div>
 
----
-
-## 🌐 3D Contributions
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
----
-
-## 📐 Isometric Calendar
-
-<div align="center">
-  <img src="./isometric.svg" width="100%"/>
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lirantul123/lirantul123/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake" src="https://raw.githubusercontent.com/lirantul123/lirantul123/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</div>
